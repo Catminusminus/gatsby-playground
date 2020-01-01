@@ -1,3 +1,12 @@
+# TypeScript + Gatsby
+## Additional Install
+```
+npm i -D @types/node @types/react @types/react-dom @types/react-helmet gatsby-plugin-typescript typescript
+```
+
+## TypeScript Support
+Change the file extensions `js` => `tsx` and add types.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
